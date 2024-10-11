@@ -1,0 +1,21 @@
+[0.478s] Invoking command in '/home/weichen/Desktop/lidar v2/src/lidar_module': PYTHONPATH=/home/weichen/Desktop/lidar v2/build/lidar_module/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/weichen/Desktop/lidar v2/install/lidar_module/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_module build --build-base /home/weichen/Desktop/lidar v2/build/lidar_module/build install --record /home/weichen/Desktop/lidar v2/build/lidar_module/install.log --single-version-externally-managed install_data
+[0.667s] running egg_info
+[0.667s] writing ../../build/lidar_module/lidar_module.egg-info/PKG-INFO
+[0.667s] writing dependency_links to ../../build/lidar_module/lidar_module.egg-info/dependency_links.txt
+[0.668s] writing entry points to ../../build/lidar_module/lidar_module.egg-info/entry_points.txt
+[0.668s] writing requirements to ../../build/lidar_module/lidar_module.egg-info/requires.txt
+[0.668s] writing top-level names to ../../build/lidar_module/lidar_module.egg-info/top_level.txt
+[0.669s] reading manifest file '../../build/lidar_module/lidar_module.egg-info/SOURCES.txt'
+[0.670s] writing manifest file '../../build/lidar_module/lidar_module.egg-info/SOURCES.txt'
+[0.670s] running build
+[0.670s] running build_py
+[0.670s] running install
+[0.670s] running install_lib
+[0.671s] running install_data
+[0.671s] copying urdf/robot_core.xacro -> /home/weichen/Desktop/lidar v2/install/lidar_module/share/lidar_module/urdf
+[0.671s] running install_egg_info
+[0.673s] removing '/home/weichen/Desktop/lidar v2/install/lidar_module/lib/python3.10/site-packages/lidar_module-0.0.0-py3.10.egg-info' (and everything under it)
+[0.673s] Copying ../../build/lidar_module/lidar_module.egg-info to /home/weichen/Desktop/lidar v2/install/lidar_module/lib/python3.10/site-packages/lidar_module-0.0.0-py3.10.egg-info
+[0.674s] running install_scripts
+[0.689s] writing list of installed files to '/home/weichen/Desktop/lidar v2/build/lidar_module/install.log'
+[0.705s] Invoked command in '/home/weichen/Desktop/lidar v2/src/lidar_module' returned '0': PYTHONPATH=/home/weichen/Desktop/lidar v2/build/lidar_module/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/weichen/Desktop/lidar v2/install/lidar_module/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_module build --build-base /home/weichen/Desktop/lidar v2/build/lidar_module/build install --record /home/weichen/Desktop/lidar v2/build/lidar_module/install.log --single-version-externally-managed install_data
